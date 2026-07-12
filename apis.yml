@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://libretranslate.com/docs
 common:
+  - type: DomainSecurity
+    url: security/libretranslate-domain-security.yml
   - type: Website
     url: https://libretranslate.com/docs
   - type: PublicAPIsListing
